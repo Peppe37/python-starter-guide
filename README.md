@@ -136,4 +136,4 @@ This project is open-source under the [MIT License](./LICENSE).
 
 ---
 
-# Happy coding! 🐍🚀
+**Happy coding! 🐍🚀**
