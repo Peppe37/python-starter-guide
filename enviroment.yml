@@ -1,0 +1,11 @@
+name: python-guide
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Core Python
+  - python=3.13
+  - pip
+  - ipykernel
+  - jupyter
+
