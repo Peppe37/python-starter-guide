@@ -3,6 +3,18 @@
 A hands-on, example-driven guide to learning Python — from basic concepts to advanced topics and essential libraries.  
 This repository is designed for developers who prefer learning by doing, using interactive and well-documented examples.
 
+## Index
+[[__TOC__]]
+
+---
+
+## Prerequisites
+- Basic understanding of programming concepts
+- Basic knowledge of command line operations
+- Basic understanding of Git
+- Basic understanding of Python (helpful but not mandatory)
+- **Inprescindible: hunger to learn!**
+
 ---
 
 ## 📁 Repository Structure
@@ -26,7 +38,7 @@ python-guide/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/python-guide.git
+git clone https://github.com/Peppe37/python-starter-guide
 cd python-guide
 ```
 
@@ -105,9 +117,13 @@ jupyter notebook
 
 ## 💡 Contributing
 
-Contributions are welcome!  
-If you'd like to add examples or improve existing ones:
+### Contributions are welcome!  
+If you want to contribute:
+- Please make sure to follow the existing code style and documentation format.
+- Make sure to test your changes before submitting a pull request.
+- Use convenient commit messages.
 
+Follow this easy process:
 1. Fork the repo  
 2. Create a new branch  
 3. Submit a pull request
@@ -118,3 +134,6 @@ If you'd like to add examples or improve existing ones:
 
 This project is open-source under the [MIT License](./LICENSE).
 
+---
+
+# Happy coding! 🐍🚀
