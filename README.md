@@ -4,7 +4,21 @@ A hands-on, example-driven guide to learning Python — from basic concepts to a
 This repository is designed for developers who prefer learning by doing, using interactive and well-documented examples.
 
 ## Index
-[[__TOC__]]
+- [🐍 Python Starter Guide](#-python-starter-guide)
+  - [Index](#index)
+  - [Prerequisites](#prerequisites)
+  - [📁 Repository Structure](#-repository-structure)
+  - [🚀 Getting Started](#-getting-started)
+    - [1. Clone the repository](#1-clone-the-repository)
+    - [2. Set up the Conda environment](#2-set-up-the-conda-environment)
+    - [3. Recommended VS Code setup](#3-recommended-vs-code-setup)
+      - [Optional setup](#optional-setup)
+    - [4. Run examples](#4-run-examples)
+  - [🧠 Topics Covered](#-topics-covered)
+  - [💡 Contributing](#-contributing)
+    - [Contributions are welcome!](#contributions-are-welcome)
+  - [📄 License](#-license)
+
 
 ---
 
@@ -135,5 +149,4 @@ Follow this easy process:
 This project is open-source under the [MIT License](./LICENSE).
 
 ---
-
-**Happy coding! 🐍🚀**
+**[Happy coding! 🐍🚀](PythonStartGuide.md)**
